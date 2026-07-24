@@ -1,4 +1,4 @@
-# kaggle-dont-get-kicked
+# Don't Get Kicked: Car Classification Prediction
 
 Проект посвящен задаче классификации автомобилей на вторичном рынке для выявления  машин со скрытыми дефектами.
 
