@@ -16,7 +16,7 @@
 
 ---
 
-## 📓 Описание ноутбуков
+## Описание ноутбуков
 
 ### 1. ML4: Binary Classification, Metrics & Model Implementation
 * Обучение стандартных классификаторов (`LogisticRegression`, `GaussianNB`, `KNN`) из библиотеки `sklearn` и их сопоставление с собственными реализациями (SGD-логистическая регрессия, NaiveBayes, KNN).
