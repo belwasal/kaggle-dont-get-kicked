@@ -1,7 +1,7 @@
 # 🚗 Car Defect Classification
 
-Классификация автомобилей на вторичном рынке для выявления машин с повышенным риском скрытых дефектов.
-Датасет: [Don't Get Kicked!](https://www.kaggle.com/competitions/DontGetKicked/overview) (Kaggle).
+Классификация автомобилей на вторичном рынке для выявления машин с повышенным риском скрытых дефектов.  
+Датасет: [Don't Get Kicked!](https://www.kaggle.com/competitions/DontGetKicked/overview) (Kaggle).  
 Цель — построить аналитический классификационный пайплайн для оценки факторов, влияющих на риск покупки проблемного автомобиля.
 
 ---
